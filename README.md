@@ -10,8 +10,7 @@ BigBasket-Cart Clone Using Flutter and Dart. Hope You Like it. This is Just a UI
 
 ### Some Screenshots
 
-  <img src="https://user-images.githubusercontent.com/49696449/96251027-70cb0e00-0fcd-11eb-82b6-2c1cc2f59b3f.png" height="300em" margin-left="5px" />
-  <img src="https://user-images.githubusercontent.com/49696449/96251035-758fc200-0fcd-11eb-8694-531df70c732b.png" height="300em" margin-left="5px" />
+  <img height="480px" src="https://user-images.githubusercontent.com/49696449/96251027-70cb0e00-0fcd-11eb-82b6-2c1cc2f59b3f.png" margin-left="20px" />      <img height="480px" src="https://user-images.githubusercontent.com/49696449/96251035-758fc200-0fcd-11eb-8694-531df70c732b.png" margin-left="30px" />
 
 ## Requirements
 - Min of Flutter 1.12.3 stable channel (preffered : latest version)
